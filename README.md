@@ -2,7 +2,11 @@
 ---
 
 ## What is this repo about?
-This repo is a collection of my notes that I am preparing while going through the book: [Graph Machine Learning: Take graph data to the next level by applying machine learning techniques and algorithms](https://www.amazon.com.au/Graph-Machine-Learning-techniques-algorithms/dp/1800204493). I somehow got interested in GraphML, idk why, but I am learning it and writing my notes while doing so. Hope you guys find it useful.
+This repo is a collection of my notes that I am preparing while going through these two books: 
+- [Graph Machine Learning: Take graph data to the next level by applying machine learning techniques and algorithms](https://www.amazon.com.au/Graph-Machine-Learning-techniques-algorithms/dp/1800204493)
+- [Hands on Graph Neural Networks](https://www.amazon.com.au/Hands-Graph-Neural-Networks-Python/dp/1804617520)
+
+I somehow got interested in GraphML, idk why, but I am learning it and writing my notes while doing so. Hope you guys find it useful.
 
 ## How to setup the environment to run these notebook?
 Oh that's easy, you just have to follow these steps:
